@@ -163,6 +163,13 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.span-title{
+    cursor: default;
+}
+.span-title:hover{
+    color: #088178;
+    transition: .05s ease;
+}
 #product1{
     text-align: center;
 }
